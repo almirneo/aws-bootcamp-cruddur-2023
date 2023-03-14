@@ -1,8 +1,5 @@
 
 vscode:
-  extensions:
-    - 42Crunch.vscode-openapi
-    - cweijan.vscode-postgresql-client2tasks
   - name: aws-cli
     env:
       AWS_CLI_AUTO_PROMPT: on-partial
